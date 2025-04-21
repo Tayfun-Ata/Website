@@ -61,25 +61,6 @@ personal-website/
 └── README.md              # Project documentation
 ```
 
-## Deployment
-To make this website available online, you can use one of the following platforms:
-
-### GitHub Pages
-1. Push the project to a GitHub repository.
-2. Go to **Settings** > **Pages**.
-3. Under "Source," select the branch (e.g., `main`) and folder (e.g., `/root`).
-4. Save the settings, and your website will be available at `https://<username>.github.io/<repository>`.
-
-### Netlify
-1. Sign up at [Netlify](https://www.netlify.com/).
-2. Drag and drop the project folder into the Netlify dashboard.
-3. Netlify will provide a live URL for your website.
-
-### Vercel
-1. Sign up at [Vercel](https://vercel.com/).
-2. Import your GitHub repository or upload the project folder.
-3. Vercel will deploy your website and provide a live URL.
-
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
